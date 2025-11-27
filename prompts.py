@@ -17,7 +17,7 @@ ZERO_SHOT_PROMPT = """You are an expert review authenticity analyst specializing
 - Star Rating Given: {rating}/5
 - Review Usefulness Count: {reviewUsefulCount} users found this helpful
 - Review Length: {ReviewLength} characters
-- Date Posted: {date}
+
 
 **Reviewer Profile:**
 - Total Reviews Written: {reviewCount}
@@ -107,7 +107,6 @@ FEW_SHOT_PROMPT = """You are an expert review authenticity analyst specializing 
 - Star Rating Given: {rating}/5
 - Review Usefulness Count: {reviewUsefulCount} users found this helpful
 - Review Length: {ReviewLength} characters
-- Date Posted: {date}
 
 **Reviewer Profile:**
 - Total Reviews Written: {reviewCount}
@@ -211,7 +210,7 @@ You must use a step-by-step reasoning process before making your final classific
 - Star Rating Given: {rating}/5
 - Review Usefulness Count: {reviewUsefulCount} users found this helpful
 - Review Length: {ReviewLength} characters
-- Date Posted: {date}
+
 
 **Reviewer Profile:**
 - Total Reviews Written: {reviewCount}
