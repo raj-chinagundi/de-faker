@@ -24,8 +24,7 @@ de-faker/
 │   ├── Enchanced_LSTM_Model.ipynb  # Enhanced LSTM with features
 │   ├── CNN_LSTM_Metadata_Model.ipynb # CNN-LSTM with metadata
 |   ├── evaluate_gemini_batch.py    # gemini model inference script
-│   ├── llama_main.py               # Llama model inference script
-│   └── prompts.py                  # Prompt utilities
+│   └── llama_main.py               # Llama model inference script
 └── results/                        # Model outputs and visualizations
     ├── ML/
     ├── LSTM/
