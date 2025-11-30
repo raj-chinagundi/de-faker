@@ -70,6 +70,3 @@ jupyter notebook src/CNN_LSTM_Metadata_Model.ipynb
 python src/llama_main.py
 ```
 
----
-
-Made with ❤️ for better review transparency
