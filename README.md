@@ -6,6 +6,8 @@ Saurabh N. Dusane, Yung-En Chiang, Che-Wei Lin, Basavraj Chinagundi, Ephraim Tho
 ## Overview
 A machine learning and AI-powered system to detect fake reviews using multiple approaches including traditional ML models, deep learning (LSTM/CNN), and LLMs (Gemini, Llama).
 
+!(https://github.com/raj-chinagundi/de-faker/blob/main/results/plots/Gemini_Generated_Image_nd54wund54wund54.png)[img]
+
 ## Project Structure
 
 ```
