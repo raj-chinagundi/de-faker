@@ -28,9 +28,7 @@ Thumbs.db
 # Streamlit
 .streamlit/secrets.toml
 
-# Jupyter
-.ipynb_checkpoints/
-*.ipynb
+
 
 # Data (if you have large datasets)
 # Uncomment if you don't want to track training data
