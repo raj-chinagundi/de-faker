@@ -13,7 +13,7 @@ de-faker/
 ├── app.py                          # Streamlit web application
 ├── prompts.py                      # Prompt templates for LLMs
 ├── requirements.txt                # Python dependencies
-├── models/                         # Trained model artifacts
+├── models/                         # Hosted model artifacts
 │   ├── logistic_regression_model.pkl
 │   ├── tfidf_vectorizer.pkl
 │   ├── metadata_scaler.pkl
