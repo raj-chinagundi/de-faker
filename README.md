@@ -1,5 +1,9 @@
-# Fake Review Detector
+# CSE 573 - Fake Review Detector
 
+## Members:
+Saurabh N. Dusane, Yung-En Chiang, Che-Wei Lin, Basavraj Chinagundi, Ephraim Thomas Jacob, Harshith Kurakula
+
+## Overview
 A machine learning and AI-powered system to detect fake reviews using multiple approaches including traditional ML models, deep learning (LSTM/CNN), and LLMs (Gemini, Llama).
 
 ## Project Structure
