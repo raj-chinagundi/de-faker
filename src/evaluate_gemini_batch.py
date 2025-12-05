@@ -14,7 +14,7 @@ from tqdm import tqdm
 # =======================================
 # 1. Gemini API
 # =======================================
-API_KEY = "AIzaSyDEGWVBtN1Wpp1ul0d6bIMAkvomQnusro4"
+API_KEY = ""
 client = genai.Client(api_key=API_KEY)
 
 
